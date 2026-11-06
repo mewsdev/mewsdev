@@ -74,9 +74,10 @@
 
 ## 📊 GitHub
 
-![Estatísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mewsdev&show_icons=true&hide_border=true&bg_color=FFF8F3&title_color=A32970&text_color=43243D&icon_color=E14790)
+![Estatísticas do GitHub](https://github-stats-extended.vercel.app/api?username=mewsdev&show_icons=true&hide_border=true&bg_color=FFF8F3&title_color=A32970&text_color=43243D&icon_color=E14790)
 
-![Linguagens no GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=mewsdev&layout=compact&hide_border=true&bg_color=FFF8F3&title_color=A32970&text_color=43243D)
+![Linguagens mais utilizadas](https://github-stats-extended.vercel.app/api/top-langs/?username=mewsdev&layout=compact&hide_border=true&bg_color=FFF8F3&title_color=A32970&text_color=43243D)
+
 
 ---
 
